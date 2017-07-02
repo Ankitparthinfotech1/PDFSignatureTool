@@ -1,0 +1,16 @@
+D:\Projetos\PDFSignatureTool\PDFSignatureTool\bin\Debug\PDFSignatureTool.exe.config
+D:\Projetos\PDFSignatureTool\PDFSignatureTool\bin\Debug\PDFSignatureTool.exe
+D:\Projetos\PDFSignatureTool\PDFSignatureTool\bin\Debug\PDFSignatureTool.pdb
+D:\Projetos\PDFSignatureTool\PDFSignatureTool\bin\Debug\itextsharp.dll
+D:\Projetos\PDFSignatureTool\PDFSignatureTool\bin\Debug\itextsharp.xml
+D:\Projetos\PDFSignatureTool\PDFSignatureTool\obj\Debug\MainWindow.g.cs
+D:\Projetos\PDFSignatureTool\PDFSignatureTool\obj\Debug\App.g.cs
+D:\Projetos\PDFSignatureTool\PDFSignatureTool\obj\Debug\PDFSignatureTool_MarkupCompile.cache
+D:\Projetos\PDFSignatureTool\PDFSignatureTool\obj\Debug\PDFSignatureTool_MarkupCompile.lref
+D:\Projetos\PDFSignatureTool\PDFSignatureTool\obj\Debug\MainWindow.baml
+D:\Projetos\PDFSignatureTool\PDFSignatureTool\obj\Debug\PDFSignatureTool.g.resources
+D:\Projetos\PDFSignatureTool\PDFSignatureTool\obj\Debug\PDFSignatureTool.Properties.Resources.resources
+D:\Projetos\PDFSignatureTool\PDFSignatureTool\obj\Debug\PDFSignatureTool.csproj.GenerateResource.Cache
+D:\Projetos\PDFSignatureTool\PDFSignatureTool\obj\Debug\PDFSignatureTool.exe
+D:\Projetos\PDFSignatureTool\PDFSignatureTool\obj\Debug\PDFSignatureTool.pdb
+D:\Projetos\PDFSignatureTool\PDFSignatureTool\obj\Debug\PDFSignatureTool.csprojResolveAssemblyReference.cache
